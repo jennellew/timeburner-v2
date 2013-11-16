@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_items">
+        <item>My Library</item>
+        <item>Browse</item>
+        <item>Online</item>
+        <item>Settings</item>
+    </string-array>
+    <string-array name="browse_categories">
+        <item>Anime/Manga</item>
+        <item>Books</item>
+        <item>Cartoons</item>
+        <item>Comics</item>
+        <item>Games</item>
+        <item>Misc</item>
+        <item>Movies</item>
+        <item>Plays/Musicals</item>
+        <item>TV Shows</item>
+    </string-array>
+</resources>

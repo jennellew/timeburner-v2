@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#f3662f</color>
+    <color name="rose">#de504e</color>
+
+    <color name="pale_orange">#fff38952</color>
+    <color name="pink">#ffff988a</color>
+    <color name="yellow">#fffae46d</color>
+    <color name="spearmint">#ff5ac397</color>
+    <color name="blue">#ff79cfff</color>
+    <color name="darkblue">#ff5d71ff</color>
+    <color name="purple">#ff956eff</color>
+
+    <color name="turquoise">#a2dfe0</color>
+    <color name="dirty_turquoise">#9CDDC8</color>
+</resources>
