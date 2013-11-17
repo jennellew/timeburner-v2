@@ -17,4 +17,15 @@
         <item>Plays/Musicals</item>
         <item>TV Shows</item>
     </string-array>
+    <string-array name="category_suffix">
+        <item>anime</item>
+        <item>book</item>
+        <item>cartoon</item>
+        <item>comic</item>
+        <item>game</item>
+        <item>misc</item>
+        <item>movie</item>
+        <item>play</item>
+        <item>tv</item>
+    </string-array>
 </resources>

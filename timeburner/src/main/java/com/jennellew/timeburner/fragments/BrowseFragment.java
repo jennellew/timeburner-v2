@@ -13,6 +13,7 @@ import android.widget.ListView;
 
 import com.jennellew.timeburner.R;
 import com.jennellew.timeburner.activity.BrowseActivity;
+import com.jennellew.timeburner.provider.HTMLTags;
 
 /**
  * Created by jwong on 11/11/13.
@@ -46,7 +47,7 @@ public class BrowseFragment extends Fragment implements ListView.OnItemClickList
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
         Intent intent = new Intent(getActivity(), BrowseActivity.class);
+        intent.putExtra(HTMLTags.CATEGORY_ID, (getResources().getStringArray(R.array.category_suffix)[position]));
         startActivity(intent);
-
     }
 }
